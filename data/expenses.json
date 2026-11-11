@@ -1,0 +1,31 @@
+{
+  "next_id": 3,
+  "categories": [
+    "Food",
+    "Transport",
+    "Rent",
+    "Utilities",
+    "Entertainment",
+    "Health",
+    "Shopping",
+    "Education",
+    "Other"
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2026-11-11",
+      "amount": 6500.0,
+      "category": "Rent",
+      "description": "Home rent"
+    },
+    {
+      "id": 2,
+      "date": "2026-11-11",
+      "amount": 150.0,
+      "category": "Food",
+      "description": "lunch"
+    }
+  ],
+  "budgets": {}
+}
